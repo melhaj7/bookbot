@@ -1,6 +1,5 @@
 # bookbot
-bookbot is a command-line tool that analyzes a text file and prints out the number of occurences of each letter.\
-It is the first project in the guided project series of the boot.dev backend bootcamp.
+bookbot is a command-line tool that analyzes a text file and prints out the number of occurences of each letter.
 ## Example the print out report
 ```
 --- Begin report of books/frankenstein.txt ---
